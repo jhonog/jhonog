@@ -23,5 +23,6 @@
 ¡No dudes en contactarme para cualquier pregunta, sugerencia o colaboración!
 
 <p align="left">
+<a href="mailto:jhonjames0510@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jhonog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-nombre" height="30" width="40" /></a>
 </p>
