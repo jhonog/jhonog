@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy Jhon Ospina, un desarrollador Front-end colombiano ![Bandera de Colombia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg)
+### ¡Hola! 👋 Soy Jhon Ospina, un desarrollador Front-end colombiano ![Colombian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png)
 
 #### Acerca de mí
 - 👩‍💻 Desarrollador Front-end con una pasión por la estética, la usabilidad y la satisfacción del usuario final.
