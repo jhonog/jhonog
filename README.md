@@ -1,28 +1,28 @@
-# ¡Hola! 👋 Soy Jhon Ospina!
+### ¡Hola! 👋 Soy Jhon Ospina, un desarrollador Front-end colombiano ![Bandera de Colombia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg)
 
-![Frontend Developer](https://img.shields.io/badge/Profesi%C3%B3n-Frontend%20Developer-blue?style=flat-square)
-![Colombiano](https://img.shields.io/badge/Nacionalidad-Colombiano-yellow?style=flat-square)
-![Enthusiasta por la Estética](https://img.shields.io/badge/Intereses-Est%C3%A9tica%20y%20Usabilidad-orange?style=flat-square)
+#### Acerca de mí
+- 👩‍💻 Desarrollador Front-end con una pasión por la estética, la usabilidad y la satisfacción del usuario final.
+- 🌐 Principalmente trabajo con JavaScript, HTML5, CSS3, Tailwind, MaterialUI.
+- 📱 Experiencia en React, React Native y Angular.
+- 🚀 Siempre buscando aprender y mejorar mis habilidades.
 
-¡Bienvenido/a a mi perfil de GitHub! Soy un ingeniero desarrollador front-end con pasión por la estética, la usabilidad y la satisfacción del usuario final. Aquí encontrarás algunos de mis proyectos y contribuciones.
+#### Habilidades Técnicas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Tecnologías y Herramientas
+#### Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</p>
+#### Lenguajes Más Utilizados
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
-## Contacto
-
-¡No dudes en contactarme para cualquier pregunta, sugerencia o colaboración!
-
-<p align="left">
-<a href="mailto:jhonjames0510@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jhonog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tu-nombre" height="30" width="40" /></a>
-</p>
+#### Contacto
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-sebastian-tabares-gaviria/)
