@@ -19,9 +19,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-#### Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=jhonog&show_icons=true&theme=radical)
-
 #### Lenguajes Más Utilizados
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonog&layout=compact&theme=radical)
 
