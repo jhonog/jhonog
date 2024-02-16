@@ -1,3 +1,6 @@
+![Frontend Developer](https://img.shields.io/badge/Profesi%C3%B3n-Frontend%20Developer-blue?style=flat-square)
+![Colombiano](https://img.shields.io/badge/Nacionalidad-Colombiano-yellow?style=flat-square)
+
 ### ¡Hola! 👋 Soy Jhon Ospina, un desarrollador Front-end colombiano ![Colombian Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/20px-Flag_of_Colombia.svg.png)
 
 #### Acerca de mí
