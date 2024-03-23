@@ -5,7 +5,7 @@
 
 #### Acerca de mí
 - 👩‍💻 Desarrollador Front-end con una pasión por la estética, la usabilidad y la satisfacción del usuario final.
-- 🌐 Principalmente trabajo con JavaScript, HTML5, CSS3, Tailwind, MaterialUI.
+- 🌐 Principalmente trabajo con JavaScript, TypeScript, HTML5, CSS3, Tailwind, MaterialUI.
 - 📱 Experiencia en React, React Native y Angular.
 - 🚀 Siempre buscando aprender y mejorar mis habilidades.
 
